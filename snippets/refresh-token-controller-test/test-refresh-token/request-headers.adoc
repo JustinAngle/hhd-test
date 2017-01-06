@@ -1,0 +1,7 @@
+|===
+|Name|Description
+
+|`Authorization`
+|Auth credentials,The format should be assigned 'Bearer refresh_token'
+
+|===

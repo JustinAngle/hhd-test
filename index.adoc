@@ -1,0 +1,55 @@
+= HuaMi Open REST API Guide
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+
+= Introduction
+
+include::/snippets/introduction.adoc[]
+
+= Directory Listing
+
+include::/snippets/directory-listing.adoc[]
+
+= Novice Guide
+
+include::/snippets/novice-guide.adoc[]
+
+= OAuth 2.0
+
+include::/snippets/oauth2.adoc[]
+
+= HuaMi Account Platform Open SDK
+
+include::/snippets/sdk.adoc[]
+
+= Authorization Code API
+
+include::/snippets/auth-code-api.adoc[]
+
+= Refresh Token API
+
+include::/snippets/refresh-token.adoc[]
+
+= HuaMi Open Data API
+
+include::/snippets/open-data-api.adoc[]
+
+= Data Access Scope List
+
+include::/snippets/scope.adoc[]
+
+= HuaMi OAuth Error Code Definition
+
+include::/snippets/error-code.adoc[]
+
+= Token Life Cycle
+
+include::/snippets/token-life-cycle.adoc[]
+
+= FAQ
+
+include::/snippets/FAQ.adoc[]

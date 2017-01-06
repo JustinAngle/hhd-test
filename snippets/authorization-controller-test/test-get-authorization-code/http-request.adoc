@@ -1,0 +1,9 @@
+[source,http,options="nowrap"]
+----
+POST /oauth2/authorize HTTP/1.1
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Host: account.huami.com
+
+client_id=8544286475823391&response_type=code&redirect_uri=http%3A%2F%2Fwww.baidu.com&scopeObjects=profile+activity&state=kldsf9h4kldsj9fg4klgdjs9&huami_auth_code=code
+----

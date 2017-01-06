@@ -1,0 +1,16 @@
+|===
+|Parameter|Description
+
+|`client_id`
+|Application ID issued by HuaMi when registered application
+
+|`client_secret`
+|Application Secret
+
+|`grant_type`
+|The grant_type parameter must be set to 'refresh_token'
+
+|`region`
+|cn/us
+
+|===

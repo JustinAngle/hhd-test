@@ -1,0 +1,19 @@
+|===
+|Parameter|Description
+
+|`client_id`
+|Application ID issued by HuaMi when registered application
+
+|`client_secret`
+|Application Secret
+
+|`grant_type`
+|The grant_type parameter must be set to 'authorization_code'
+
+|`redirect_uri`
+|This is the URI to which you want the user to be redirected after the authorization is complete. This must match the redirect URI that you have previously registered with the service
+
+|`code`
+|Authorization Code
+
+|===

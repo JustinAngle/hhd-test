@@ -1,0 +1,20 @@
+|===
+|Path|Type|Description
+
+|`access_token`
+|`String`
+|Access token
+
+|`token_type`
+|`String`
+|Token type
+
+|`expires_in`
+|`Number`
+|Expire at some time stamp, UNIX time stamp(seconds)
+
+|`refresh_token`
+|`String`
+|Refresh token, used to refresh access token
+
+|===

@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ curl 'https://account.huami.com/oauth2/access_token' -i -X POST -H 'Accept: application/json' -H 'Content-Type: application/x-www-form-urlencoded' -d 'client_id=clientId&client_secret=clientSecret&grant_type=refresh_token&redirect_uri=http%3A%2F%2Fwww.baidu.com&code=code'
+----

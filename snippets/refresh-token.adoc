@@ -1,0 +1,23 @@
+*Request structure*
+
+include::{snippets}/refresh-token-controller-test/test-refresh-token/http-request.adoc[]
+
+*Request headers*
+
+include::{snippets}/refresh-token-controller-test/test-refresh-token/request-headers.adoc[]
+
+*Request parameters*
+
+include::{snippets}/refresh-token-controller-test/test-refresh-token/request-parameters.adoc[]
+
+*Example response*
+
+include::{snippets}/refresh-token-controller-test/test-refresh-token/http-response.adoc[]
+
+*Response fields*
+
+include::{snippets}/refresh-token-controller-test/test-refresh-token/response-fields.adoc[]
+
+*CURL request*
+
+include::{snippets}/refresh-token-controller-test/test-refresh-token/curl-request.adoc[]

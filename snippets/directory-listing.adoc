@@ -1,0 +1,18 @@
+. Guidance
+* <<Novice Guide,Novice guide>>
+* <<_oauth_2_0,OAuth2.0 Introduction>>
+* <<HuaMi Account Platform Open SDK,SDK Download>>
+* HuaMi LOGO Download
+
+. Authorization API
+* <<Authorization Code API,AUTHORIZATION CODE API>>
+* <<Refresh Token API,REFRESH TOKEN API>>
+
+. Open API Instructions
+* <<HuaMi Open Data API,HuaMi Open Data API>>
+
+. Help Documents
+* <<_data_access_scope_list,Scope List>>
+* <<_huami_oauth_error_code_definition,OAuth Error Code Definition>>
+* <<_token_life_cycle,Token Lift Cycle>>
+* <<FAQ,FAQ>>

@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+Content-Length: 617
+
+{"access_token":"TAQABAAAAAJ95lT4WrRdWtG3hog/0QvXTnUpL3FFxKOLBgm4JjIKJbSozXYxtltsQzBz0Z9PXDiIKBUOLMfjWX5Je6tGEdXLeaYeCEVS0dVYMWG+p+Y7avcVe0SWY4jITNGfuq/tlNLK9cACSkIW/L6Mnb9YNp4CzQDo7dU9WrxK87aOJ7gAlE4leZKeCM3+xLY3zRs3BGZEwrsCmEMqPr14rrD2KHny6aD2UvGQfXdVGVExe8jRbMLw2L2KdRWrxEW7vZRzXdw==","token_type":"Bearer","expires_in":43200,"refresh_token":"TAQEBAAAAAC7iIWnqI4uE6UgCUiBRg887o9H48QS3IhW5b8c4aJQtyn2ED73TeJKxhWhxVg5+e5lM8Gv5il9FWbQjG5rDKCVnLZ2VGxqrcj6pcAXrLmOQeTePl9dF507jX3awUjQ9RIi7PQhD5MzOlvNIciBhy6hrxU2u5pLt0uTWTJC36blvkwAmdZXQwIpxz2cJPfgTKWGGM1v4IT8uWkYRMWnvYUWOXoPvubp7MRRdVPyngtcbq3aAYCMMmbHilZs8x/jALQ=="}
+----

@@ -1,0 +1,6 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 302 Found
+Location: http://www.baidu.com?code=40ICAQNVihth7i16WEFb4b3zXpgiI8gX&state=kldsf9h4kldsj9fg4klgdjs9
+
+----

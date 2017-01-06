@@ -1,0 +1,8 @@
+. Register to be a developer
+Empty content
+
+. Create your application
+
+.. Step 1
+.. Step 2
+.. Step 3

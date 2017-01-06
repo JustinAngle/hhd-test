@@ -1,0 +1,19 @@
+|===
+|Parameter|Description
+
+|`client_id`
+|Application ID issued by HuaMi when registered application
+
+|`response_type`
+|response_type is set to token/code indicating that you want an access_token/code as the response
+
+|`redirect_uri`
+|This is the URI to which you want the user to be redirected after the authorization is complete. This must match the redirect URI that you have previously registered with the service
+
+|`scopeObjects`
+|Include one or more scope values (space-separated) to request additional levels of access, 见 <<_数据访问权限列表_scope>>
+
+|`state`
+|Be used for keeping the req/rep callback status and avoid CSRF attacking
+
+|===
