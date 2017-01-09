@@ -8,7 +8,7 @@
 
 = Introduction
 
-include::/snippets/introduction.asciidoc[]
+include::/snippets/introduction.adoc[]
 
 = Directory Listing
 
